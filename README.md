@@ -1,6 +1,6 @@
 # Zalo AI Challenge 2026 — Systems & Architecture Showcase
 
-An architectural overview of competitive solutions engineered for **Zalo AI Challenge 2026**, covering **Track 2 (DataMate)** and **Track 1 (LifeMate)** under strict offline execution, compute-bounded, and latency-constrained conditions.
+An architectural overview of competitive solutions engineered for [**Zalo AI Challenge 2026**](https://challenge.zalo.ai/) ↗, covering **Track 2 (DataMate)** and **Track 1 (LifeMate)** under strict offline execution, compute-bounded, and latency-constrained conditions.
 
 ---
 
